@@ -8,6 +8,7 @@ import {
     TouchableWithoutFeedback,
     Image,
     Text,
+    Button,
 
 } from "react-native";
 
