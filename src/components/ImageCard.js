@@ -9,6 +9,7 @@ import {
     Image,
     Text,
     Button,
+    input,
 
 } from "react-native";
 
